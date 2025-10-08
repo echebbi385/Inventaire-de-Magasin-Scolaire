@@ -1,0 +1,5 @@
+{
+  "name": "Inventaire de Magasin Scolaire",
+  "description": "Une application web pour gérer l'inventaire d'un magasin d'une école préparatoire en Tunisie. Permet d'ajouter, de modifier, de supprimer et de rechercher des articles en stock.",
+  "requestFramePermissions": []
+}
